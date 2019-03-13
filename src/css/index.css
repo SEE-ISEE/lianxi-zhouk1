@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+.top {
+  width: 100%;
+  height: 50px; }
+  .top ul {
+    display: flex; }
+
+.end {
+  width: 100%;
+  height: 50px; }
+  .end ul {
+    display: flex; }
